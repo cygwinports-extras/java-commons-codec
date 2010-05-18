@@ -1,0 +1,5 @@
+category: Java
+requires: 
+sdesc: "Java library for common encoders"
+ldesc: "Commons Codec provides implementations of common encoders and 
+decoders such as Base64, Hex, Phonetic and URLs."
